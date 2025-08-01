@@ -36,7 +36,7 @@ As this repository includes the press kit and the blog, we prefix all layouts an
 We do not make a difference between categories and tags, but only use categories.
 Categories are used to tag posts, so they can be found easier.
 Every tag has an overview page where you can find all posts with this tag.
-Tags are also recognized as keywords by the search and posts get with these tags get an extra boost and are listed higher.
+Tags are also recognized as keywords by the search and posts with these tags get an extra boost and are listed higher.
  
 You can add a category / tag in the YAML header of each page:
  
